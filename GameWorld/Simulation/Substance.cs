@@ -5,16 +5,14 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VisualPrototype.GameWorld.Tiles.Models
+namespace VisualPrototype.GameWorld.Simulation
 {
-    public class TerrainType
+    public class Substance
     {
         public int Id { get; set; }
 
         public string Name { get; set; } = "";
 
-        public int WalkCost { get; set; } = 1;
-
-        public bool Walkable { get; set; } = true;
+        public 
     }
 }

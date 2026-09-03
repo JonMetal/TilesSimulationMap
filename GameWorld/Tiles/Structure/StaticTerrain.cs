@@ -11,5 +11,8 @@ namespace VisualPrototype.GameWorld.Tiles.Structure
     {
         public int TerrainTypeId { get; init; }
         public TerrainType? TerrainType { get; init; }
+
+        public decimal MaxVolume { get; set; } = 0.0m;
+        public decimal SideLength = 1.0m;
     }
 }

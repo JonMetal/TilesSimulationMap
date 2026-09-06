@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace VisualPrototype.GameWorld.Simulation
 {
-    public enum SubstanceType : byte
+    public enum Phase : byte
     {
         Solid = 1,
         Liquid = 2,
-        Gas = 3
+        Gas = 3,
+        Plasma = 4,
+        SupercriticalFluid = 5
     }
 
     public enum ElementCategory : byte

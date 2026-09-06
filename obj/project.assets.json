@@ -310,23 +310,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amiasnikov\\.nuget\\packages\\": {},
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\VisualPrototype.csproj",
+      "projectUniqueName": "C:\\Onyx3\\TilesSimulationMap\\VisualPrototype.csproj",
       "projectName": "VisualPrototype",
-      "projectPath": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\VisualPrototype.csproj",
-      "packagesPath": "C:\\Users\\amiasnikov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\obj\\",
+      "projectPath": "C:\\Onyx3\\TilesSimulationMap\\VisualPrototype.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Onyx3\\TilesSimulationMap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\amiasnikov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

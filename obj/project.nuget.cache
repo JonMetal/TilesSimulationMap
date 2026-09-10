@@ -1,20 +1,26 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "DF0216UEzYw=",
-=======
-  "dgSpecHash": "RdH5p9H49Pw=",
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
   "success": true,
-  "projectFilePath": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\VisualPrototype.csproj",
+  "projectFilePath": "C:\\Onyx3\\TilesSimulationMap\\VisualPrototype.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\amiasnikov\\.nuget\\packages\\monogame.content.builder.task\\3.8.5.1\\monogame.content.builder.task.3.8.5.1.nupkg.sha512",
-    "C:\\Users\\amiasnikov\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.5.1\\monogame.framework.desktopgl.3.8.5.1.nupkg.sha512",
-    "C:\\Users\\amiasnikov\\.nuget\\packages\\monogame.library.openal\\1.24.3.4\\monogame.library.openal.1.24.3.4.nupkg.sha512",
-    "C:\\Users\\amiasnikov\\.nuget\\packages\\monogame.library.sdl\\2.32.10.2\\monogame.library.sdl.2.32.10.2.nupkg.sha512",
-    "C:\\Users\\amiasnikov\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
-    "C:\\Users\\amiasnikov\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\amiasnikov\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\monogame.content.builder.task\\3.8.5.1\\monogame.content.builder.task.3.8.5.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.5.1\\monogame.framework.desktopgl.3.8.5.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\monogame.library.openal\\1.24.3.4\\monogame.library.openal.1.24.3.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\monogame.library.sdl\\2.32.10.2\\monogame.library.sdl.2.32.10.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Ошибка чтения файла кэша C:\\Onyx3\\TilesSimulationMap\\obj\\project.nuget.cache: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Onyx3\\TilesSimulationMap\\VisualPrototype.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Onyx3\\TilesSimulationMap\\VisualPrototype.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

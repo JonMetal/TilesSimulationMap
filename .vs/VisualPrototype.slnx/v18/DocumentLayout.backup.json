@@ -8,12 +8,16 @@
       "RelativeMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|solutionrelative:gameworld\\simulation\\ai\\anatomy\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|c:\\onyx3\\tilessimulationmap\\gameworld\\simulation\\ai\\colonist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|solutionrelative:gameworld\\simulation\\ai\\colonist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|c:\\onyx3\\tilessimulationmap\\gameworld\\simulation\\ai\\anatomy\\bodypart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|solutionrelative:gameworld\\simulation\\ai\\anatomy\\bodypart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|c:\\onyx3\\tilessimulationmap\\gameworld\\simulation\\ai\\colonist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|solutionrelative:gameworld\\simulation\\ai\\colonist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|c:\\onyx3\\tilessimulationmap\\visualprototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|solutionrelative:visualprototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84F4F584-E86D-CE8F-E6BF-8E18D29AA495}|VisualPrototype.csproj|c:\\onyx3\\tilessimulationmap\\gameworld\\simulation\\substance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -92,7 +96,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -104,17 +108,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
 <<<<<<< HEAD
+              "DocumentIndex": 3,
+              "Title": "VisualPrototype",
+              "DocumentMoniker": "C:\\Onyx3\\TilesSimulationMap\\VisualPrototype.csproj",
+              "RelativeDocumentMoniker": "VisualPrototype.csproj",
+              "ToolTip": "C:\\Onyx3\\TilesSimulationMap\\VisualPrototype.csproj",
+              "RelativeToolTip": "VisualPrototype.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T14:55:57.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Function.cs",
               "DocumentMoniker": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\AI\\Anatomy\\Function.cs",
               "RelativeDocumentMoniker": "GameWorld\\Simulation\\AI\\Anatomy\\Function.cs",
               "ToolTip": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\AI\\Anatomy\\Function.cs",
               "RelativeToolTip": "GameWorld\\Simulation\\AI\\Anatomy\\Function.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T13:06:39.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BodyPart.cs",
+              "DocumentMoniker": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\AI\\Anatomy\\BodyPart.cs",
+              "RelativeDocumentMoniker": "GameWorld\\Simulation\\AI\\Anatomy\\BodyPart.cs",
+              "ToolTip": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\AI\\Anatomy\\BodyPart.cs",
+              "RelativeToolTip": "GameWorld\\Simulation\\AI\\Anatomy\\BodyPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:05:10.698Z",
+              "EditorCaption": ""
 =======
+              "DocumentIndex": 0,
               "Title": "SimulationTile.cs",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\GameWorld\\Simulation\\SimulationTile.cs",
               "RelativeDocumentMoniker": "GameWorld\\Simulation\\SimulationTile.cs",
@@ -135,9 +167,7 @@
               "RelativeToolTip": "GameWorld\\Simulation\\Phisycs\\PhisycalTile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T08:20:29.176Z",
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T08:20:29.176Z"
             },
             {
               "$type": "Document",
@@ -149,8 +179,7 @@
               "RelativeToolTip": "GameWorld\\Simulation\\Chemistry\\ChemicalTile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T08:15:30.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T08:15:30.119Z"
             },
             {
               "$type": "Document",
@@ -162,8 +191,7 @@
               "RelativeToolTip": "GameWorld\\Simulation\\Chemistry\\SubstanceAmount.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T09:36:44.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T09:36:44.719Z"
             },
             {
               "$type": "Document",
@@ -175,8 +203,7 @@
               "RelativeToolTip": "GameWorld\\Simulation\\Substance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-05T18:25:45.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T18:25:45.93Z"
             },
             {
               "$type": "Document",
@@ -189,28 +216,16 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T18:14:00.593Z"
+>>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BodyPart.cs",
-              "DocumentMoniker": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\AI\\Anatomy\\BodyPart.cs",
-              "RelativeDocumentMoniker": "GameWorld\\Simulation\\AI\\Anatomy\\BodyPart.cs",
-              "ToolTip": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\AI\\Anatomy\\BodyPart.cs*",
-              "RelativeToolTip": "GameWorld\\Simulation\\AI\\Anatomy\\BodyPart.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T13:05:10.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Colonist.cs",
               "DocumentMoniker": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\AI\\Colonist.cs",
               "RelativeDocumentMoniker": "GameWorld\\Simulation\\AI\\Colonist.cs",
-              "ToolTip": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\AI\\Colonist.cs*",
-              "RelativeToolTip": "GameWorld\\Simulation\\AI\\Colonist.cs*",
+              "ToolTip": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\AI\\Colonist.cs",
+              "RelativeToolTip": "GameWorld\\Simulation\\AI\\Colonist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T13:02:52.606Z",
@@ -218,12 +233,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Substance.cs",
               "DocumentMoniker": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\Substance.cs",
               "RelativeDocumentMoniker": "GameWorld\\Simulation\\Substance.cs",
-              "ToolTip": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\Substance.cs*",
-              "RelativeToolTip": "GameWorld\\Simulation\\Substance.cs*",
+              "ToolTip": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\Substance.cs",
+              "RelativeToolTip": "GameWorld\\Simulation\\Substance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T18:25:45.93Z",
@@ -231,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Compound.cs",
               "DocumentMoniker": "C:\\Onyx3\\TilesSimulationMap\\GameWorld\\Simulation\\Chemistry\\Compound.cs",
               "RelativeDocumentMoniker": "GameWorld\\Simulation\\Chemistry\\Compound.cs",
@@ -243,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SimulationEnums.cs",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\GameWorld\\Simulation\\SimulationEnums.cs",
               "RelativeDocumentMoniker": "GameWorld\\Simulation\\SimulationEnums.cs",
@@ -251,16 +266,11 @@
               "RelativeToolTip": "GameWorld\\Simulation\\SimulationEnums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T09:44:25.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T09:44:25.552Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 6,
-=======
               "DocumentIndex": 7,
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
               "Title": "Element.cs",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\GameWorld\\Simulation\\Chemistry\\Element.cs",
               "RelativeDocumentMoniker": "GameWorld\\Simulation\\Chemistry\\Element.cs",
@@ -272,11 +282,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 7,
-=======
               "DocumentIndex": 8,
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
               "Title": "TilesEnums.cs",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\GameWorld\\Tiles\\TilesEnums.cs",
               "RelativeDocumentMoniker": "GameWorld\\Tiles\\TilesEnums.cs",
@@ -288,11 +294,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 10,
-=======
               "DocumentIndex": 11,
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
               "Title": "Building.cs",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\GameWorld\\Tiles\\Structure\\BuildingStructure\\Building.cs",
               "RelativeDocumentMoniker": "GameWorld\\Tiles\\Structure\\BuildingStructure\\Building.cs",
@@ -304,11 +306,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 12,
-=======
               "DocumentIndex": 13,
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
               "Title": "app.manifest",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\app.manifest",
               "RelativeDocumentMoniker": "app.manifest",
@@ -320,11 +318,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 9,
-=======
               "DocumentIndex": 10,
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
               "Title": "DynamicTile.cs",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\GameWorld\\Tiles\\Structure\\DynamicTile.cs",
               "RelativeDocumentMoniker": "GameWorld\\Tiles\\Structure\\DynamicTile.cs",
@@ -336,11 +330,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 13,
-=======
               "DocumentIndex": 14,
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
               "Title": "NavigationTile.cs",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\GameWorld\\Tiles\\Structure\\NavigationTile.cs",
               "RelativeDocumentMoniker": "GameWorld\\Tiles\\Structure\\NavigationTile.cs",
@@ -352,11 +342,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 11,
-=======
               "DocumentIndex": 12,
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
               "Title": "StaticTerrain.cs",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\GameWorld\\Tiles\\Structure\\StaticTerrain.cs",
               "RelativeDocumentMoniker": "GameWorld\\Tiles\\Structure\\StaticTerrain.cs",
@@ -368,11 +354,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 8,
-=======
               "DocumentIndex": 9,
->>>>>>> 13da1e0732682d0d816027db6d8198d8cd6f4ff9
               "Title": "TerrainType.cs",
               "DocumentMoniker": "C:\\Users\\amiasnikov\\source\\repos\\VisualPrototype\\VisualPrototype\\GameWorld\\Tiles\\Models\\TerrainType.cs",
               "RelativeDocumentMoniker": "GameWorld\\Tiles\\Models\\TerrainType.cs",

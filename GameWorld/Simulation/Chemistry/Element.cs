@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace VisualPrototype.GameWorld.Simulation.Chemistry
 {
-    public class Element
+    public struct Element
     {
         public readonly byte AtomicNumber;
         public readonly string Symbol = "";

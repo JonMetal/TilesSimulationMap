@@ -27,6 +27,8 @@ namespace VisualPrototype.GameWorld.Simulation.Chemistry
             short meltingPoint, short boilingPoint, short density, 
             Phase standardPhase, decimal conductivity)
         {
+            Composition = composition.ToDictionary();
+            MolarMass = composition.Sum(c => c.Key.AtomicMass * c.Value);
             Formula = formula;
             Name = name;
             IsElement = isElement;

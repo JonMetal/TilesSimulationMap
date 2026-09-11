@@ -28,6 +28,8 @@ namespace VisualPrototype.GameWorld.Simulation.Chemistry
 
         public decimal VolumeAtSTP => Moles * 22.4m;
 
+        public decimal Concentrations { get; set; }
+
         public SubstanceAmount(Compound substance, decimal moles)
         {
             Substance = substance;

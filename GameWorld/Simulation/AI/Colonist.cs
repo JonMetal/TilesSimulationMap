@@ -1,16 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VisualPrototype.GameWorld.Simulation
+namespace VisualPrototype.GameWorld.Simulation.AI
 {
-    public class Substance
+    public class Colonist
     {
         public int Id { get; set; }
 
-        public string Name { get; set; } = ""; 
+
     }
 }
